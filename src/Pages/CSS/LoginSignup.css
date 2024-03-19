@@ -43,7 +43,7 @@
     border: none;
     font-size: 24px;
     font-weight: 500;
-    cursor: pointer;
+    cursor:pointer;
 }
 
 .loginsignup-login {
@@ -57,6 +57,7 @@
     color: #ff4141;
     padding-left: 10px;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .loginsignup-agree {

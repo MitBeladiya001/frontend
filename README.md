@@ -1,6 +1,10 @@
 # Virtual Mall
 # FRONT-END PART : 
 
+Pictures :
+![image](https://github.com/user-attachments/assets/e8bed49d-93cb-4e3b-9402-bba4b95c267c)
+
+
 1. Header Section :
 
 Logo: Display your brand logo prominently for easy recognition.

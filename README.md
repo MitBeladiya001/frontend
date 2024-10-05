@@ -90,3 +90,6 @@ Show recently viewed items, recommended products, or personalized offers.
 3.	Security: Implement user roles and permissions to control access to sensitive information.
 4.	Notifications: Receive alerts for new orders, low inventory, and other important events.
  
+# Backend Part :
+
+For The Backend Part Go to [https://github.com/MitBeladiya001/E-commerce]
